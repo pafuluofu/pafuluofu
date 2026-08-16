@@ -33,7 +33,7 @@ direct attention from the first call to the final deploy.
 | **SEVERPRINT** — 3D-printing service | Tilda | [live](https://pafuluofu.github.io/tilda-severprint/) · [code](https://github.com/pafuluofu/tilda-severprint) |
 | **MoneyPort** — cross-border payments | Tilda | [live](https://pafuluofu.github.io/tilda-moneyport/) · [code](https://github.com/pafuluofu/tilda-moneyport) |
 
-More on the <a href="https://verno-dev.com">portfolio site</a> — 25+ projects across landing pages, e-commerce and online-course platforms.
+_More on the <a href="https://verno-dev.com">portfolio site</a> — 25+ projects across landing pages, e-commerce and online-course platforms._
 
 ---
 
