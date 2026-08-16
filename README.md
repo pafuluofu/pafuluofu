@@ -24,14 +24,14 @@ direct attention from the first call to the final deploy.
 
 | Project | Built with | Links |
 |---|---|---|
-| **Japan's Goods** — e-commerce storefront | React | [live](https://pafuluofu.github.io/japans-goods-e-store/) · [code](https://github.com/pafuluofu/japans-goods-e-store) |
-| **Game Store** — product landing | React | [live](https://pafuluofu.github.io/games-e-store/) · [code](https://github.com/pafuluofu/games-e-store) |
-| **Workout Diary** — map-based tracker | JavaScript · Leaflet | [live](https://pafuluofu.github.io/workout-diary/) · [code](https://github.com/pafuluofu/workout-diary) |
-| **Guitar Lessons** — responsive landing | HTML · CSS · JS | [live](https://pafuluofu.github.io/guitar-lessons-landing-page/) · [code](https://github.com/pafuluofu/guitar-lessons-landing-page) |
-| **Hot Air Balloon Tours** — landing | HTML · CSS · JS | [live](https://pafuluofu.github.io/Hot-air-ballon-landing/) · [code](https://github.com/pafuluofu/Hot-air-ballon-landing) |
-| **Bakery** — landing | HTML · CSS · JS | [live](https://pafuluofu.github.io/Bakery-landing/) · [code](https://github.com/pafuluofu/Bakery-landing) |
-| **SEVERPRINT** — 3D-printing service | Tilda | [live](https://pafuluofu.github.io/tilda-severprint/) · [code](https://github.com/pafuluofu/tilda-severprint) |
-| **MoneyPort** — cross-border payments | Tilda | [live](https://pafuluofu.github.io/tilda-moneyport/) · [code](https://github.com/pafuluofu/tilda-moneyport) |
+| **Japan's Goods** — e-commerce storefront | React | [live](https://verno-dev-studio.github.io/japans-goods-e-store/) · [code](https://github.com/verno-dev-studio/japans-goods-e-store) |
+| **Game Store** — product landing | React | [live](https://verno-dev-studio.github.io/games-e-store/) · [code](https://github.com/verno-dev-studio/games-e-store) |
+| **Workout Diary** — map-based tracker | JavaScript · Leaflet | [live](https://verno-dev-studio.github.io/workout-diary/) · [code](https://github.com/verno-dev-studio/workout-diary) |
+| **Guitar Lessons** — responsive landing | HTML · CSS · JS | [live](https://verno-dev-studio.github.io/guitar-lessons-landing-page/) · [code](https://github.com/verno-dev-studio/guitar-lessons-landing-page) |
+| **Hot Air Balloon Tours** — landing | HTML · CSS · JS | [live](https://verno-dev-studio.github.io/Hot-air-ballon-landing/) · [code](https://github.com/verno-dev-studio/Hot-air-ballon-landing) |
+| **Bakery** — landing | HTML · CSS · JS | [live](https://verno-dev-studio.github.io/Bakery-landing/) · [code](https://github.com/verno-dev-studio/Bakery-landing) |
+| **SEVERPRINT** — 3D-printing service | Tilda | [live](https://verno-dev-studio.github.io/tilda-severprint/) · [code](https://github.com/verno-dev-studio/tilda-severprint) |
+| **MoneyPort** — cross-border payments | Tilda | [live](https://verno-dev-studio.github.io/tilda-moneyport/) · [code](https://github.com/verno-dev-studio/tilda-moneyport) |
 
 _More on the <a href="https://verno-dev.com">portfolio site</a> — 25+ projects across landing pages, e-commerce and online-course platforms._
 
