@@ -16,7 +16,7 @@ direct attention from the first call to the final deploy.
 ### 🛠 Tech & platforms
 
 `HTML` · `CSS / Sass` · `JavaScript` · `React` · `PHP`
-`WordPress` · `Shopify` · `Webflow` · `WooCommerce` · `Tilda` · `GetCourse` · `OpenCart` · `Figma`
+`WordPress` · `Shopify` · `Webflow` · `WooCommerce` · `Tilda` · `GetCourse` · `OpenCart` · `1С` · `Figma`
 
 ---
 
